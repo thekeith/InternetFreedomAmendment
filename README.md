@@ -9,6 +9,7 @@ The goal of this repo is to create the desired language, points and criteria for
 1. The right to access any web site, anywhere, any time without restriction should the provider of the information, e.g. a web site owner, choose to provide it publicly.
 2. The inability of the government to remove access to information that is publicly accessible for any political or economic reason.
 3. The right to not have your private data accessed by the government without a warrant and notification, as SOPA would consider sites to infringe if they do not make it easy to confirm no violation of IP rights.
+4. Linking or otherwise referring to information of any kind would not be a crime.
 
 ### How This Works
 
