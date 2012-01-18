@@ -22,7 +22,10 @@ I made this as a git repo simply because it seems like the most elegant and simp
 
 ### Current Status
 
-January 18, 2012: This repository was created today during the protests against SOPA/PIPA. Currently the very simple README has been uploaded with the goal of finding any interest in pursuing this document.
+January 18, 2012: 
+
+* This repository was created today during the protests against SOPA/PIPA. Currently the very simple README has been uploaded with the goal of finding any interest in pursuing this document.
+* Just registered OpenSourceLegislation.org/net to host this
 
 ### Who The Hell I Am
 
