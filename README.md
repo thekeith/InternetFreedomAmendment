@@ -18,7 +18,7 @@ I made this as a git repo simply because it seems like the most elegant and simp
 ### Information
 
 * [HN Discussion about this, please use to comment on this and help get the ball rolling](http://news.ycombinator.com/item?id=3482318)
-* [Sol from Khan Academy explains SOPA in clear terms here](http://www.khanacademy.org/video/sopa-and-pipa?playlist=American+Civics)
+* [Sal from Khan Academy explains SOPA in clear terms here](http://www.khanacademy.org/video/sopa-and-pipa?playlist=American+Civics)
 * [Google's more-information page on SOPA](https://www.google.com/landing/takeaction/sopa-pipa/)
 
 ### Current Status
