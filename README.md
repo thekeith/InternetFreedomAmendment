@@ -27,6 +27,7 @@ January 18, 2012:
 
 * This repository was created today during the protests against SOPA/PIPA. Currently the very simple README has been uploaded with the goal of finding any interest in pursuing this document.
 * Just registered OpenSourceLegislation.org/net to host this
+* [Read the first draft of the amendment](https://github.com/zorzllc/InternetFreedomAmendment/blob/master/Internet%20Freedom%20Amendment.md)
 
 ### Thank You
 
