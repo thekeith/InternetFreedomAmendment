@@ -9,7 +9,7 @@ The goal of this repo is to create the desired language, points and criteria for
 1. The right to access any web site, anywhere, any time without restriction should the provider of the information, e.g. a web site owner, choose to provide it publicly.
 2. The inability of the government to remove access to information that is publicly accessible for any political or economic reason.
 3. The right to not have your private data accessed by the government without a warrant and notification, as SOPA would consider sites to infringe if they do not make it easy to confirm no violation of IP rights.
-4. Linking or otherwise referring to information of any kind would not be a crime.
+4. Linking or otherwise referring to information of any kind would not be a crime and instead considered expression, entitling it to the same protection under the constitution.
 
 ### How This Works
 
@@ -28,6 +28,10 @@ January 18, 2012:
 * This repository was created today during the protests against SOPA/PIPA. Currently the very simple README has been uploaded with the goal of finding any interest in pursuing this document.
 * Just registered OpenSourceLegislation.org/net to host this
 
-### Who The Hell I Am
+### Thank You
+
+I'm glad to see some people interested in this. Please watch/fork and [participate on HN](http://news.ycombinator.com/item?id=3482318)!
+
+### Who The Hell Am I
 
 I'm just an entrepreneur that loves to make things. I'm hosting the repo for now to see if enough people want to partake in this - if people do, I'll make and fund an organization on GitHub to hold the repo and will let the community take this the direction it needs to go.
